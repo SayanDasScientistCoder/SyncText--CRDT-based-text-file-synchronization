@@ -1,5 +1,5 @@
 # SyncText:- CRDT based text file synchronization
-This project uses CRDT mechanisms achieve synchronization across multiple users editing a common text document. Unlike lock-based mechanisms, it does not use any locks on a global document to achieve synchronization making it extremely scalable. 
+This project has been implemented in C as part of college assignment at IIT Kharagpur. This project uses CRDT mechanisms achieve synchronization across multiple users editing a common text document. Unlike lock-based mechanisms, it does not use any locks on a global document to achieve synchronization making it extremely scalable. 
 
 ## Compiling:- 
 gcc synctext.c -o synctext -lrt -lpthread
