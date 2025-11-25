@@ -1,9 +1,5 @@
 # **SyncText \- Design Document**
 
-## **NAME:- Sayan Das**
-
-**ROLL NUMBER:- 25CS60R01**
-
 ## **1\. System Architecture**
 
 ### **High-Level Overview**
